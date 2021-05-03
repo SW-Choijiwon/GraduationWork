@@ -19,6 +19,7 @@
 > epoch: 400
 > 
 > Real dog images with unpair data: 684 data
+> 
 > Watercolor puppy illustration image: 419 data
 > 
 > [Sources]
