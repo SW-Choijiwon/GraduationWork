@@ -29,3 +29,8 @@
 > MIRFLICKR Download
 > 
 > Etc
+> 
+## Our Paper
+> "CycleGAN 과 Mask R-CNN 을 활용한 수채화 스타일 이모티콘 생성"
+>  제 30회 신호처리합동학술대회  https://30spc2020.creatorlink.net/
+>
