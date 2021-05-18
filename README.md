@@ -14,22 +14,25 @@
 | 201835538  | Choi-Jiwon(최지원)   | ji_1106@naver.com          |
 
 
-## Experimental Environment
-> Intel i7-5960X CPU, Nvidia GTX 1080 GPU
-> epoch: 400
-> 
-> Real dog images with unpair data: 684 data
-> 
+## Experimental Environment & API
+> Intel i7-5960X CPU, Nvidia GTX 1080 GPU <br>
+ epoch: 400 <br>
+> Python Version: 3.7.3
+>
+> Real dog images with unpair data: 684 data <br>
 > Watercolor puppy illustration image: 419 data
 > 
-> [Sources]
-> 
-> https://pixabay.com/illustrations/
-> 
-> MIRFLICKR Download
-> 
-> Etc
-> 
+> Sources <br>
+> ---
+> https://pixabay.com/illustrations/ <br>
+> MIRFLICKR Download <br>
+> Etc </br>
+>
+> How To Install Experimental Environment <br>
+> ---
+> Refer to the files in the [Installation Environment](https://github.com/hjw705/GraduationWork/tree/master/Installation%20Environment) folder for execution preferences, code execution instructions, and dataset information. <br>
+> You can find train dataset in the [Datasets](https://github.com/hjw705/GraduationWork/tree/master/Datasets) folder.
+>
 ## Our Paper
 > "CycleGAN 과 Mask R-CNN 을 활용한 수채화 스타일 이모티콘 생성"
 > 
