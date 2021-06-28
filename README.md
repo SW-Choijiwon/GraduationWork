@@ -37,3 +37,5 @@
 >"CycleGAN 과 Mask R-CNN 을 활용한 수채화 스타일 이모티콘 생성" -> You can see on [Our Paper](https://github.com/hjw705/GraduationWork/tree/master/Our%20Paper) folder. <br>
 > 제 30회 신호처리합동학술대회  https://30spc2020.creatorlink.net/
 >
+## Technical description
+>https://github.com/SW-Choijiwon/GraduationWork/wiki
